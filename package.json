@@ -8,8 +8,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/data-grid": "^4.0.0-alpha.19",
+    "@material-ui/icons": "^4.11.2",
+    "axios": "^0.21.1",
+    "fs": "^0.0.1-security",
     "next": "10.0.6",
+    "next-redux-wrapper": "^6.0.2",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "redux-wrapper": "^0.0.1",
+    "write-json-file": "^4.3.0"
   }
 }
